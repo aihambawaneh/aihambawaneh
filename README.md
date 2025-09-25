@@ -2,6 +2,7 @@
 
 💡 Passionate about **Deep Learning, Computer Vision, and AI**.  
 🚀 Always learning & building cool ML projects.  
+🎓 Currently a student at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="25"/> **42 Irbid**  
 
 ---
 
@@ -50,6 +51,7 @@
 - Generative AI & Diffusion Models  
 - Machine Learning  
 - Business Intelligence with Power BI  
+- C Programming at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="20"/> **42 Irbid**  
 
 ---
 
