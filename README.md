@@ -5,7 +5,27 @@
 **Deep Learning • Computer Vision • AI**  
 Student at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="20"/> **42 Irbid**
 
-[LinkedIn](https://www.linkedin.com/in/aiham-bawaneh) • [Instagram](https://www.instagram.com/2iha___m?igsh=bG13NDl6M2FicGZz&utm_source=qr)
+---
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aiham-bawaneh">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Instagram icons -->
+  <a href="https://www.instagram.com/2iha___m?igsh=bG13NDl6M2FicGZz&utm_source=qr">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram classic" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/2iha___m?igsh=bG13NDl6M2FicGZz&utm_source=qr">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram modern" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/2iha___m?igsh=bG13NDl6M2FicGZz&utm_source=qr">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram color" width="40"/>
+  </a>
+</p>
 
 </div>
 
@@ -25,10 +45,11 @@ Student at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo
 ---
 
 ## 🚀 Projects
-- **CNN Image Classifier** — CIFAR-10 / PyTorch, training + inference notebook.
-- **Object Detection** — YOLOv8 fine-tuning on custom dataset.
-- **Classical CV Toolkit** — OpenCV pipelines for edge/feature detection.
-> جرعة عرضية من الذكاء: “الكود اللي ما ينكتب ما بينكسر.” اكتب وجرّب 😄
+- **CNN Image Classifier** — CIFAR-10 / PyTorch, training + inference notebook.  
+- **Object Detection** — YOLOv8 fine-tuning on custom dataset.  
+- **Classical CV Toolkit** — OpenCV pipelines for edge/feature detection.  
+
+> "الكود اللي ما ينكتب ما بينكسر."  
 
 ---
 
