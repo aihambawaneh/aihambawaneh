@@ -56,18 +56,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=radical" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aihambawaneh&theme=transparent" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aihambawaneh&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <div align="center">
 
-⭐️ **From [aihambawaneh](https://github.com/aihambawaneh)**
+⭐️ From [aihambawaneh](https://github.com/aihambawaneh)
 
 </div>
