@@ -37,11 +37,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🧠 **CNN Image Classifier** — Trained on CIFAR-10 using PyTorch.  
-- 🎯 **Object Detection** — YOLOv8 fine-tuning on a custom dataset.  
-- 🔍 **Computer Vision Toolkit** — OpenCV pipelines for edge and feature detection.  
+- 🧠 **CNN Image Classifier** — Trained on CIFAR-10 using PyTorch  
+- 🎯 **Object Detection** — YOLOv8 fine-tuning on a custom dataset  
+- 🔍 **Computer Vision Toolkit** — OpenCV pipelines for edge and feature detection  
 
-> “The code that isn’t written yet can’t break.” — A developer’s truth.
+> “The code that isn’t written yet can’t break.” — A developer’s truth
 
 ---
 
@@ -58,10 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=radical" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aihambawaneh&theme=radical&border_radius=5" alt="GitHub Streak"/>
 </p>
 
 ---
