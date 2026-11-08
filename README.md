@@ -1,69 +1,102 @@
+
 <div align="center">
 
-# 👋 Hi, I'm **Aiham**
+# Aiham Bawaneh
 
-💡 Passionate about **Deep Learning, Computer Vision, and AI**  
-🎓 Student at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="20"/> **42 Irbid**  
-🚀 Always learning & building cool ML projects
+### AI Engineer | Deep Learning | Computer Vision
 
----
+Building intelligent solutions through Machine Learning and Computer Vision.
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aiham-bawaneh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/2iha___m?igsh=bG13NDl6M2FicGZz&utm_source=qr" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/aiham-bawaneh">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aihambawaneh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/2iha___m">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45"/>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45"/>
+## About Me
+
+I'm passionate about Artificial Intelligence, with a strong interest in developing practical AI solutions and intelligent systems.
+
+- Focused on **Deep Learning and Computer Vision**.
+- Interested in Machine Learning and AI-driven applications.
+- Currently studying at **42 Irbid**.
+- Continuously exploring new technologies and building hands-on projects.
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+**AI & Deep Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🧠 **CNN Image Classifier** — Trained on CIFAR-10 using PyTorch  
-- 🎯 **Object Detection** — YOLOv8 fine-tuning on a custom dataset  
-- 🔍 **Computer Vision Toolkit** — OpenCV pipelines for edge and feature detection  
+## Featured Projects
 
-> “The code that isn’t written yet can’t break.” — A developer’s truth
+### Computer Vision & AI
 
----
-
-## 🌱 Currently Learning
-- Advanced Computer Vision  
-- Generative AI & Diffusion Models  
-- Machine Learning & MLOps Fundamentals  
-- Business Intelligence with Power BI  
-- C Programming at <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="16"/> **42 Irbid**
+| Project | Description | Technologies |
+|---|---|---|
+| **Vision Muroor** | Traffic sign detection and classification with intelligent driver alerts. | YOLO, CNN, TensorFlow |
+| **Markabati AI** | AI-powered vehicle damage detection and severity assessment with repair cost estimation. | YOLOv11, PyTorch, EfficientNet |
+| **Object Detection** | Object detection and localization using deep learning models. | YOLO, OpenCV |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=radical" height="160" alt="Top Languages"/>
-</p>
+## Currently Exploring
+
+- Advanced Computer Vision
+- Generative AI & Diffusion Models
+- Machine Learning & MLOps
+- Deep Learning Architectures
+- C Programming at 42 Irbid
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=aihambawaneh&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐️ From [aihambawaneh](https://github.com/aihambawaneh)
+**Always learning. Always building.**
 
 </div>
