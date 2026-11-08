@@ -79,15 +79,13 @@ Deep learning-based object detection and localization using YOLO models.
 
 ## <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="23"/> GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=aihambawaneh&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aihambawaneh&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihambawaneh&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
 </div>
 
