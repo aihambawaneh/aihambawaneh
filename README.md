@@ -1,75 +1,73 @@
 
 <div align="center">
 
-# Aiham Bawaneh
-
-### AI Engineer | Deep Learning | Computer Vision
-
-Building intelligent solutions through Machine Learning and Computer Vision.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:1F3A5F&height=180&section=header&text=Aiham%20Bawaneh&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descSize=16&descAlignY=65&descColor=58A6FF" width="100%" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/aiham-bawaneh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/aihambawaneh">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/2iha___m">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## <img src="https://img.icons8.com/fluency/32/user-male-circle.png" width="23"/> About Me
 
-I'm passionate about Artificial Intelligence, with a strong interest in developing practical AI solutions and intelligent systems.
+I'm passionate about Artificial Intelligence and building intelligent solutions that solve real-world problems.
 
 - Focused on **Deep Learning and Computer Vision**.
 - Interested in Machine Learning and AI-driven applications.
 - Currently studying at **42 Irbid**.
-- Continuously exploring new technologies and building hands-on projects.
+- Always learning, experimenting, and building new things.
 
 ---
 
-## Technical Skills
+## <img src="https://img.icons8.com/fluency/32/code.png" width="23"/> Tech Stack
 
-**Programming Languages**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c" />
-</p>
+### Programming Languages
 
-**AI & Deep Learning**
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+### AI & Deep Learning
 
-**Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" />
-</p>
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" />
+
+</div>
 
 ---
 
-## Featured Projects
+## <img src="https://img.icons8.com/fluency/32/project.png" width="23"/> Featured Projects
 
-### Computer Vision & AI
+**Vision Muroor**
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Vision Muroor** | Traffic sign detection and classification with intelligent driver alerts. | YOLO, CNN, TensorFlow |
-| **Markabati AI** | AI-powered vehicle damage detection and severity assessment with repair cost estimation. | YOLOv11, PyTorch, EfficientNet |
-| **Object Detection** | Object detection and localization using deep learning models. | YOLO, OpenCV |
+Traffic sign detection and classification system with intelligent driver alerts using Computer Vision and Deep Learning.
+
+**Markabati AI**
+
+AI-powered vehicle damage detection, severity assessment, and repair cost estimation.
+
+**Object Detection**
+
+Deep learning-based object detection and localization using YOLO models.
 
 ---
 
-## Currently Exploring
+## <img src="https://img.icons8.com/fluency/32/brain.png" width="23"/> Currently Learning
 
 - Advanced Computer Vision
 - Generative AI & Diffusion Models
@@ -79,7 +77,7 @@ I'm passionate about Artificial Intelligence, with a strong interest in developi
 
 ---
 
-## GitHub Analytics
+## <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="23"/> GitHub Statistics
 
 <div align="center">
 
@@ -97,6 +95,8 @@ I'm passionate about Artificial Intelligence, with a strong interest in developi
 
 <div align="center">
 
-**Always learning. Always building.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:0D1117&height=100&section=footer" width="100%" />
+
+**Building. Learning. Improving.**
 
 </div>
